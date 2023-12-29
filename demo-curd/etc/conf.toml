@@ -1,0 +1,10 @@
+[http]
+host = "127.0.0.1"
+port = 8050
+
+[mysql]
+host = "8.134.196.206"
+port = 3306
+username = "root"
+password = "128505Tan.."
+database = "demo"
